@@ -1,3 +1,5 @@
+#Clustering of 1d array objects using k means method
+
 arr = [int(i) for i in input("Enter the array: ").split()]
 arr = sorted(arr)
 n = int(input("Enter number of clusters: "))
